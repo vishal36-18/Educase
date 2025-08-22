@@ -9,7 +9,7 @@ export default function FirstPage() {
   return (
    <>
      <div className={styles.container}>
-      <img></img>
+      <div></div>
       <div className={styles.part2}>
         <h2>Welcome to PopX</h2>
         <p>Lorem ipsum dolor sit amet,<br></br> consectetur adipiscing elit,</p>
