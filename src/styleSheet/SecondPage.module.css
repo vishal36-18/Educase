@@ -1,0 +1,64 @@
+.container{
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 40vh;
+  background-color: whitesmoke;
+  height: 80vh;
+  border: 1px solid rgb(215, 211, 211);
+}
+
+.container1{
+  margin-left: 10px;
+}
+
+.login{
+  width: 93%;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  border: none;
+  background-color: rgb(193, 189, 189);
+  color: rgb(247, 244, 249);
+  font-weight: 700;
+}
+
+.inputGroup {
+  position: relative;
+  margin-top: 15px;
+  width: 300px;
+}
+
+.inputGroup input {
+  width: 80%;
+  padding: 14px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+  background: whitesmoke;
+}
+
+/* Label on the border */
+.inputGroup label {
+  position: absolute;
+  top: -10px;
+  left: 12px;
+  background: whitesmoke;
+  padding: 0 6px;
+  font-size: 14px;
+  color: blueviolet;
+  font-weight: 600;
+}
+
+.footer{
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 40vh;
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer button{
+  border: none;
+  font-size: 15px;
+}

@@ -1,0 +1,68 @@
+.container{
+  margin: auto;
+  margin-top: 50px;
+  width: 40vh;
+  background-color: whitesmoke;
+  height: 80vh;
+  border: 1px solid rgb(215, 211, 211);
+}
+
+.container1{
+  margin-left: 10px;
+}
+
+.inputGroup {
+  position: relative;
+  margin-top: 18px;
+  width: 300px;
+}
+
+.inputGroup input {
+  width: 80%;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+  background: whitesmoke;
+}
+
+
+.inputGroup label {
+  position: absolute;
+  top: -10px;
+  left: 12px;
+  background: whitesmoke;
+  padding: 0 6px;
+  font-size: 14px;
+  color: blueviolet;
+  font-weight: 600;
+}
+
+.create{
+  width: 93%;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(120, 10, 254);
+  color: white;
+  border: none;
+  font-weight: 700;
+  margin-top: 90px;
+}
+
+.container span{
+    color: red;
+}
+
+.footer{
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 40vh;
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer button{
+  border: none;
+  font-size: 15px;
+}
