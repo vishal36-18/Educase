@@ -11,7 +11,7 @@ export default function FourthPage() {
         <div className={styles.account}>Account Settings</div>
         <div className={styles.container1}>
           <div className={styles.user}>
-            <img src="" alt="photo"/>
+            <img src="" alt=""/>
             <p>
               Marry Doe
               <br /> Marry@gmail.com
